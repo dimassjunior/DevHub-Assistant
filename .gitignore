@@ -1,0 +1,9 @@
+node_modules/
+.env
+.claude/
+.vscode/
+*.log
+transcripts/
+temp/
+posted_jobs_new.json
+package-lock.json
